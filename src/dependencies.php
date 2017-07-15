@@ -27,3 +27,4 @@ $container['db'] = function ($container) {
 
     return $capsule;
 };
+
